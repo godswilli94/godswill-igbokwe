@@ -4,6 +4,4 @@
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=godswilli94 alt=godswilli94 /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=godswilli94&show_icons=true&include_all_commits=true)](https://github.com/godswilli94/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godswilli94&layout=compact)](https://github.com/godswilli94/github-readme-stats)
 I’m a data-savvy sales pro who loves turning big challenges into bigger wins. With a knack for building connections and a passion for uncovering actionable insights, I’ve successfully blended my business development expertise with cutting-edge analytics skills. Whether it’s optimizing outreach campaigns, crunching numbers in SQL, or crafting dashboards in Tableau, I bring energy and creativity to every project. After leveling up through the TripleTen Business Intelligence Bootcamp, I’m ready to tackle complex data puzzles and help teams grow smarter, faster, and stronger. When I’m not diving into data or closing deals, you’ll find me exploring new countries, tossing a ruby ball or just sharing laughs and beers with friends. 
