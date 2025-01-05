@@ -1,1 +1,9 @@
-# godswill-igbokwe
+## Hey 👋, This is Godswill Igbokwe
+[![Gmail Badge](https://img.shields.io/badge/-godswill.igbokwe@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:godswill.igbokwe@gmail.com)](mailto:godswill.igbokwe@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-Godswill Igbokwe-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Godswill Igbokwe/)](https://www.linkedin.com/in/Godswill Igbokwe/) [![Github Badge](https://img.shields.io/badge/-godswilli94-grey?style=flat&logo=github&logoColor=white&link=https://github.com/godswilli94/)](https://www.github.com/godswilli94/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=godswill.igbokwe@gmail.com/)](godswill.igbokwe@gmail.com/) <p align='left'> You can view my resume <a href='https://docs.google.com/document/d/1ZG5huL9sTft4m5v4iL-qM_Los5S-Yprzjg2N3amaSsY/edit?tab=t.0 ' target=_blank><u>here</u>.</a></p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=godswilli94 alt=godswilli94 /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=godswilli94&show_icons=true&include_all_commits=true)](https://github.com/godswilli94/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godswilli94&layout=compact)](https://github.com/godswilli94/github-readme-stats)
+I’m a data-savvy sales pro who loves turning big challenges into bigger wins. With a knack for building connections and a passion for uncovering actionable insights, I’ve successfully blended my business development expertise with cutting-edge analytics skills. Whether it’s optimizing outreach campaigns, crunching numbers in SQL, or crafting dashboards in Tableau, I bring energy and creativity to every project. After leveling up through the TripleTen Business Intelligence Bootcamp, I’m ready to tackle complex data puzzles and help teams grow smarter, faster, and stronger. When I’m not diving into data or closing deals, you’ll find me exploring new countries, tossing a ruby ball or just sharing laughs and beers with friends. 
